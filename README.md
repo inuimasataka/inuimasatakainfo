@@ -29,8 +29,10 @@ Masataka INUI
 Studying Indo-Tibetan Tantric Buddhism at [Dptpartment of Indian Philosophy and Buddhist Studies](https://www.l.u-tokyo.ac.jp/intetsu/), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/) 
 (東京大学),  Japan.
 
-Born in Hyogo, Japan, 3003. 
+Born in Hyogo, Japan, in 2003. 
+
 Currently in Setagaya, Tokyo.
+
 A monk of Shingon Sect (高野山真言宗僧侶).
 
 More info: clik [here](https://linktr.ee/inuimasataka).
@@ -136,52 +138,52 @@ This duty is outlined by the Bodhisattva or altruistic philosophy of Mahayana Bu
 
 ### 5.2 My contributions
 
-Considering that Buddhism is a religion that brings about good transformations in the minds of all beings (sems can) according to the nature of their feelings and the nature of all living beings, and promotes good deeds and happiness, it is the responsibility of Buddhists to realise the peace of all sentiments through the study of Buddhism. 
+Considering that Buddhism is a religion that brings about good transformations in the minds of all beings (sems can) according to the nature of their feelings and the nature of all living beings, and promotes good deeds and happiness, it is the responsibility of Buddhists to realise the peace of all sentient beings through the study of Buddhism. 
 
 Buddhism has many phases, such as thought, logic, practice and bodhi, each of which needs to be examined carefully in terms of literature and precisely in terms of thought.
 
-As a Buddhist, the end point of my research is to describe a state of mind that seems to me to be comfortable for all sentiments, and to suggest a path to that state of mind. It is a kind of spiritual security. At the same time, through this, the world will become more compassionate and we will succeed in building peace.
+As a Buddhist, the end point of my research is to describe a state of mind that seems to be comfortable for all sentiments, and to suggest a path to that state of mind. It is a kind of spiritual security. At the same time, through this, the world will become more compassionate and we will succeed in building peace.
 
-Since Buddhism has thought of a methodology for this, and since one of the quickest of these methodologies is the tantric tradition, in particular the tradition of the Yogānuttaratantra (rnal ʼbyor bla na med paʼi rgyud), those who study it will be able to contribute to this realisation. It seems natural that those who study it would have the idea that they could contribute to this realisation, and thus contribute to its planning. This end point could be related to fields such as medical science or neurology. This plan will take a considerable number of years, but if it succeeds, we believe that the situation surrounding the human psyche will at least be improved.
+Since Buddhism has methodologies for this, and since one of the quickest of these methodologies is the tantric tradition, in particular the tradition of the Yogānuttaratantra (rnal ʼbyor bla na med paʼi rgyud), those who study it will be able to contribute to this realisation. It seems natural that those who study it would have the idea that they could contribute to this realisation, and thus contribute to its planning. This end point could be related to fields such as medical science or neurology. This plan will take a considerable number of years, but if it succeeds, we believe that the situation surrounding the human psyche will at least be improved.
 
-Now, specifically, in addition to an exploration of the Yogānuttaratantra texts themselves, which can be traced back to India, I would like to study how they have been interpreted, transmitted and practised in Tibet. In particular, the state of tantric Buddhism, including the doctrines and practices of Je Tsongkhapa Lobsang Trakpa (rje tsong kha pa blo bzang grags pa), his disciples and the Gelug school (dge lugs pa) up to the present day. 
+Now, specifically, in addition to an exploration of the Yogānuttaratantra texts themselves, which can be traced back to India, I would like to study how they have been interpreted, transmitted and practised in Tibet. In particular, the state of Tantric Buddhism, including the doctrines and practices of Je Tsongkhapa Lobsang Trakpa (rje tsong kha pa blo bzang grags pa), his disciples and the Gelug school (dge lugs pa) up to the present day. 
 
-The framework of the Gelug school, in terms of systematising all thought and practice as a way to attain Buddhahood, would place guhyasamajatantra (gsang 'dus) at its centre; guhyasamājatantra or cakrasaṃvaratantra (bde mchog) and other two steps (rim pa gnyis) in the tradition of the Yogānuttaratantra, which I want to study while reading the canonical texts and practising them.
+The framework of the Gelug school, in terms of systematising all thought and practice as a way to attain Buddhahood, would place guhyasamajatantra (gsang 'dus) at its centre; guhyasamājatantra or cakrasaṃvaratantra (bde mchog) and the two stages of the path (rim pa gnyis) in the tradition of the Yogānuttaratantra, which I want to study while reading the canonical texts and practising them.
 
-Fortunately, I have received the fourfold perfection of guhyasamājatantra from a Gelug school acharya, and I practice the practice called sādhana (sgrub thams) every day and educated in a monastic way under the tradition of Gyudmed Monastery (rgyud smad grwa tsang). 
+Fortunately, I have received the four empowermwnts of guhyasamājatantra from a Gelug school acharya, and I practice the practice called sādhana (sgrub thams) every day and educated in a monastic way under the tradition of Gyudmed Monastery (rgyud smad grwa tsang). 
 
-From the practitioner's perspective, the motivation for engaging in rnal ʼbyor bla na med paʼi rgyud  is very much related to the question of attaining Buddhahood.
+From the practitioner's perspective, the motivation for engaging in rnal ʼbyor bla na med paʼi rgyud is very much related to the question of attaining Buddhahood.
 
-If there is a superiority or inferiority of Buddhist thought, the idea that the Mahayana is superior to the Small Vehicle is fairly common within the Mahayana. The reason for this is the broadness of the object of salvation. 
+If there is a superiority or inferiority of Buddhist thought, the idea that the Mahayana is superior to the Small Vehicle is fairly common within the Mahayana. The reason for this is its broadness of the object of salvation. 
 
-On the other hand, when comparing Mahayana and Tantric Buddhism, the superiority of Tantric Buddhism is not a matter of the broadness of the object of salvation. Both aim to save all sentient beings. Tantric Buddhism is considered superior mainly because of the short time it takes to attain Buddhahood, symbolised by the term 'Sokushin Jōbutsu (即身成仏)'(immediate attainment of Buddhahood) in Japanese Tantric Buddhism.
+On the other hand, when comparing Mahayana and Tantric Buddhism, the superiority of Tantric Buddhism is not a matter of the broadness of the object of salvation. Both aim to save all sentient beings. Tantric Buddhism is considered superior mainly because of the short time it takes to attain Buddhahood, symbolised by the term 'Sokushin Jōbutsu (即身成仏)'(immediate attainment of Buddhahood) in Japanese Shingon Buddhism.
 
-The Yogānuttaratantra, which is praised as bla na med pa (there is nothing better than this, nothing better than this), is considered superior because of the short time it takes to attain Buddhahood, and in particular because of its ability to unite life, death, mediumship and phases in meditation (skye shi bar do gsums dang rnam pa mthun par sgom pa), etc., as its important advantages. The idea that a person who wishes for speedy attainment of Buddhahood would not take this path of practice is not viable. Therefore, I am practising the path of Yogānuttaratantra because I find it wonderful. This religious motivation also drives my study of Yogānuttaratantra.
+The Yogānuttaratantra, which is praised as bla na med pa (there is nothing better or higher than this), is considered superior because of the short time it takes to attain Buddhahood, and in particular because of its ability to unite life, death, and intermidiate state in meditation (skye shi bar do gsums dang rnam pa mthun par sgom pa), etc., as its important advantages. The idea that a person who wishes for speedy attainment of Buddhahood would not take this path of practice is not viable. Therefore, I am practising the path of Yogānuttaratantra because I find it wonderful. This religious motivation also drives my study of Yogānuttaratantra.
 
-In addition, considering that I myself am a monk and practising on Mt. Koya-san, my perspective as a Shingon monk naturally comes into use in these studies of esoteric Buddhism.Even when it comes to the same mid-temperate esoteric texts, thought and practice differ between Japan and Tibet. These comparisons can also be an interesting topic. 
+In addition, considering that I myself am a monk and practising on Mt. Koya-san, my perspective as a Shingon monk naturally comes into use in these studies of Tantric Buddhism. Even when it comes to the same mid-temperate esoteric texts, thought and practice differ between Japan and Tibet. These comparisons can also be an interesting topic. 
 
-Furthermore, living in a monastery where Buddhism is actually practised helps to understand what Buddhism is all about. Therefore, in addition to literary research, I consider it essential to study in a Tibetan monastery, receive transmission related to tantric Buddhism, and study in a way that unites practice and teaching in order to understand tantric Buddhism.
+Furthermore, living in a monastery where Buddhism is actually practised helps to understand what Buddhism is all about. Therefore, in addition to literary research, I consider it essential to study in a Tibetan monastery, receive transmission related to Tantric Buddhism, and study in a way that unites practice and teaching in order to understand Tantric Buddhism.
 
 Now, my research topics may be summarised as follows.
 
 (1) To reveal how late esoteric teachings, or the tradition known as rnal ʼbyor bla na med paʼi rgyud in Tibet, such as guhyasamājatantra and cakrasaṃvaratantra has been handed down in dGe lugs pa (Geluk school) from multiple perspectives, such as thought and practice. In addition, its success or failure must be evaluated from the perspective of whether or not it contributes to the attainment of Buddhahood.
 
-(2) In order to fully conduct the research above, it is necessary to examine how logic has been formed and utilised in Indo-Tibetan Buddhism in writing the texts, and how the view of stong pa nyid (emptiness) has been developed in the Indian Buddhist philosophical schools, including the school of Prasaṅgika (dbu ma thal 'gyur pa), view how they were understood and how they were accepted, interpreted and passed on by Tibetan Buddhist monks, especially how they were utilised in Tantric practice.
+(2) In order to fully conduct the research above, it is necessary to examine how logic has been formed and utilised in Indo-Tibetan Buddhism in writing the texts, and how the view of stong pa nyid (emptiness) has been developed in the Indian Buddhist philosophical schools, including the school of Prasaṅgika (dbu ma thal 'gyur pa), and how they were understood and how they were accepted, interpreted and passed on by Tibetan Buddhist monks, especially how they were utilised in tantric practice.
 
-(3) To build up a database of the texts represented by the Three Treasury Books and the audio recordings of the lectures of the high priests of Indo-Tibetan Buddhism in order to carry out the above research to the fullest extent.
+(3) To build up a database of the texts (gzhung) and the audio recordings (dpe khrid) of the lectures of the high priests of Indo-Tibetan Buddhism in order to carry out the above research to the fullest extent.
 
 
-(4) To widely integrate the above studies with the knowledge of other religions, literature, art, history, society, life and death and other spiritual activities of mankind, and to analyse spirituality and its narratives that precede religion, and to seek ways of solidarity, dialogue and cooperation among human beings beyond religion and thought, as well as happiness, suffering and care, and to explore the relationship between spiritual states such as happiness, suffering and care, which human beings can satisfy through mutual relationships, and individual states of mind such as compassion and altruism, and to propose a state of human society that is considered to be happy for each of them.
+(4) To widely integrate the above studies with the knowledge of other religions, literature, art, history, society, thanatology and other spiritual activities of mankind, and to analyse spirituality and its narratives that precede religion, and to seek ways of solidarity, dialogue and cooperation among human beings beyond religion and thought, as well as to explore the relationship between spiritual states such as happiness, suffering and care, which human beings can satisfy through mutual relationships, and individual states of mind such as compassion and altruism, and to propose a state of human society that is considered to be happy for each of them.
 
 (5) Through the above research, to consider how the way of understanding the human body and mind based on the tradition of Yogānuttaratantra can or cannot be described by the findings of modern science such as medical science and neurology, and, based on this consideration, to develop a method of spiritual security using the method of Yogānuttaratantra practice.
 
-(6) With the above, to investigate the diversity and inclusive environment of the Indo-Pacific and local Buddhist worlds, especially the inclusive environment surrounding dialogue and thought, and to contribute to the peace-building of future human society from the perspective of language, dialogue, logic, law, philosophy, thought and spirituality. 
+(6) With the above, to investigate the diversity and inclusive environment of the Indo-Pacific and local Buddhist worlds, especially the inclusive environment surrounding dialogue and thought, and to contribute to the peace-building of future human society from the wholistic perspective of language, dialogue, logic, law, philosophy, thought and spirituality. 
 
 ### 5.3 Conclusion
 
 It is clear that in order to achieve the directions and goals outlined above, I will have to continue my studies and training even further. It goes without saying that I also need the guidance of my teachers and the advice and help of my friends and colleagues. All collaborators in the project must also overcome any mediocrity and work together in the face of difficulties. However, I believe that the benefits of achieving this will be a great fruit for humanity and humanity's future.
 
-I have managed to continue my studies to this day. This is due to the guidance and support of my parents, Geshes (dge bshes), teachers, friends, seniors, juniors, donors, the state, universities, temples, and others. We believe that this site fulfils my accountability to these supporters. 
+I have managed to continue my studies to this day. This is due to the guidance and support of my parents, virtuous friends (dge bshes), teachers (bla ma), professors, friends, seniors, juniors, patrons, the state, universities, temples, and others. We believe that this site fulfils my accountability to these supporters. 
 
 In the future, I would like to return the favour of these people in all areas. Although I am not perfect in many respects, including my studies, research and personality, I would like to ask for your continued warm support.
 
@@ -198,7 +200,7 @@ Masataka INUI
 
 ## 6. Contacte me
 
-You can contact me from [here](https://docs.google.com/forms/d/e/1FAIpQLSeOjQCFRe9MPAyRD2UzwPArucxS92HhIa7fnLcrf0YlZGRlJQ/viewform?usp=sf_link) in Englihs or/and Japanese.
+You can contact me from [here](https://docs.google.com/forms/d/e/1FAIpQLSeOjQCFRe9MPAyRD2UzwPArucxS92HhIa7fnLcrf0YlZGRlJQ/viewform?usp=sf_link) in English or/and Japanese.
 
 
 copyright (c) Masataka Inui. All rights reserved. 2024.
