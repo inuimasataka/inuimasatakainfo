@@ -204,3 +204,6 @@ You can contact me from [here](https://docs.google.com/forms/d/e/1FAIpQLSeOjQCFR
 
 
 copyright (c) Masataka Inui. All rights reserved. 2024.
+<img width="869" alt="Foracompassionateworldスライド表示用" src="https://github.com/inuimasataka/inuimasatakainfo/assets/137048968/cac7ebf4-b26d-4ab1-860c-2da17d52fa06">
+
+
