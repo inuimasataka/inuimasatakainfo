@@ -33,7 +33,7 @@ Born in Hyogo, Japan, in 2003.
 
 Currently in Setagaya, Tokyo.
 
-A monk of Shingon Sect (高野山真言宗僧侶).
+A monk of Shingon Sect (高野山真言宗).
 
 More info: clik [here](https://linktr.ee/inuimasataka).
 
@@ -60,7 +60,7 @@ Moreover, as Buddhism is a religion with the motivation to realise the happiness
 My research must be motivated by a commitment to these contributions to humanity.
 
 ### 4.3 Afiliations
-Dpt. of Indian Philodophy and Buddhist Studies, the University of Tokyo.
+[Dpt. of Indian Philodophy and Buddhist Studies, the University of Tokyo](https://www.l.u-tokyo.ac.jp/intetsu/).
 
 Koyasan Shingon Shu ([高野山真言宗](https://www.koyasan.or.jp/)).
 
