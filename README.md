@@ -20,16 +20,25 @@ Interested in Indo-Tibetan Tantric Buddhism, especially Pañcakrama by tantric N
 
 ## Background
 Spt. 2003  Born in Nishinomiya, Hyogo Prefecture, Japan.
+
 Dec. 2016  Met the 14th Dalai Lama in Osaka.
+
 Aug. 2018  Studied at Brisbane Grammar School, Brisbane, Australia.
+
 Mar. 2022  Graduated with honours from Seifu High School, Osaka, Japan.
+
 Apr. 2022  Entered the University of Tokyo (Faculty of Liberal Arts, Human Sciences III), Japan.
+
 Aug. 2023  Ordained in Hojuin Temple, Koyasan, Wakayama, Japan.
+
 Mar. 2024  Completed Shido Kegyo (Prayoga) in Koyasan, Wakayama, Japan.
+
 Apr. 2024  Moved to Dpt. of Indian Philosophy and Buddhist Studies at the University of Tokyo, Japan.
+
 
 ## Awards etc.
 Mar. 2022  Awarded the Koyasan Shingon Sect Chief Abbot Award for my academic excellence in high school.
+
 Dec. 2023  Awarded 33rd Icho Namiki Literature Award for my literary work “Wakai”.
 
 ## Published works
@@ -71,16 +80,25 @@ https://linktr.ee/inuimasataka
 
 ## 経歴
 2003年9月　　兵庫県西宮市生まれ。
+
 2016年11月　　ダライ・ラマ14世に大阪で面会。
+
 2018年8月　　オーストラリアのブリスベン・グラマー・スクールに留学。
+
 2022年3月　　清風高校卒業。
+
 2022年4月　　東京大学教養学部文科三類入学。
+
 2023年8月　　高野山寶壽院（高野山専修学院）にて得度。
+
 2024年3月　　高野山院内にて四度加行、成満。
+
 2024年4月　　東京大学文学部人文学科インド哲学仏教学専修進学。
+
 
 ## 受賞など
 2022年3月　　高野山真言宗管長賞、受賞（高校時代の学業成績に対して）。
+
 2023年11月　　第33回銀杏並木文学賞、入賞（小説『和解』に対して）。
 
 ## 出版された作品
