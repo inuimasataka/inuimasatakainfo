@@ -2,8 +2,6 @@
 # Masataka INUI
 (Studying Indo-Tibetan Tantic Buddhism at the University of Tokyo. A Buddhist Monk of Koyasan Shingon Sect. Sepecialising in rJe tsong kha pa studies related to Pañcakrama.)
 
-![証明写真20230718](https://github.com/inuimasataka/inuimasatakainfo/assets/137048968/ffb0cd08-ab63-40e3-8f25-d6766e542003)
-
 ## Vision
 Through the study of Buddhism, especially Tantric teachings on suffering and death, to construct transformative views of life and death for humanity, and to build a more stable human mind and a global environment that supports the well-being of all living beings.
 
@@ -54,8 +52,6 @@ https://linktr.ee/inuimasataka
 # 乾　将崇（いぬい・まさたか）
 （東京大学でインド・チベット密教を勉強中。高野山真言宗。五次第に関連するジェ・ツォンカパ研究を専門。）
 
-![IMG_3363](https://github.com/inuimasataka/inuimasatakainfo/assets/137048968/5fa61b45-5317-4843-a121-ca6677443a33)
-
 
 ## 構想
 仏教、特に苦と死に関わる密教の教えの研究を通じて、人類にとって変革的な死生観を構築し、より安定した人間の心と一切の生物の幸せを支える地球環境を築くこと。
@@ -101,3 +97,6 @@ https://linktr.ee/inuimasataka
 
 ## さらなる情報と連絡先
 https://linktr.ee/inuimasataka
+
+![証明写真20230718](https://github.com/inuimasataka/inuimasatakainfo/assets/137048968/ffb0cd08-ab63-40e3-8f25-d6766e542003)
+![IMG_3363](https://github.com/inuimasataka/inuimasatakainfo/assets/137048968/5fa61b45-5317-4843-a121-ca6677443a33)
