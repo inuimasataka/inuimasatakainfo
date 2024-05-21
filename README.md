@@ -15,7 +15,7 @@ As Buddhist studies deal with a multilingual and pan-Asian scope, I believe that
 
 
 ## About My Research
-Interested in Indo-Tibetan Tantric Buddhism, especially Pañcakrama by tantric Nāgārjuna and its Tibetan commentaries such as Rim lnga rab tu gsal ba'i sgron me by rJe Tsong kha pa, and now working on them. The study of the texts on rdzogs rim, which explains how to practise using the mental state of ‘od gsal that humans face when they die, can contribute to the well-being of humankind and to our understanding of death. Furthermore, on the basis of analysing the logical structure of Tibetan bsDus grwa literature, trying to build an algorithm for logical judgement with the help of logic programming languages such as Prolog.
+Interested in Indo-Tibetan Tantric Buddhism, especially Pañcakrama by tantric Nāgārjuna and its Tibetan commentaries such as Rim lnga rab tu gsal ba'i sgron me by rJe Tsong kha pa, and now working on them. The study of the texts on rdzogs rim, which explains how to practise using the mental state of ‘od gsal that humans face when they die, can contribute to the well-being of humankind and to our understanding of death. Furthermore, on the basis of analysing the logical structure of Tibetan bsDus grwa literature, trying to build an algorithm for logical judgement with the help of logic programming languages such as Prolog. Moreover, interested in narrative analysis, in terms of what is told and what is not about his or her own sufferings.
 
 
 ## Background
@@ -75,7 +75,7 @@ https://linktr.ee/inuimasataka
 
 
 ## 私の研究について
-インド・チベット密教に興味があり、特に密教の龍樹による『五次第（Pañcakrama）』と、それに関連するジェ・ツォンカパによる『五次第を明らかにする灯明（Rim lnga rab tu gsal ba'i sgron me）』などのチベットの諸注釈に興味があり、現在読解を進めている。これは、人間が死ぬ際に向き合うことになる光明という精神状態を利用した修行法を説く究竟次第に関わる典籍で、この研究によって人類の精神の安定や死への理解に貢献することができる。さらに、チベットのドゥラ文献の論理構造を分析した上で、Prolog などの論理プログラミング言語を用いた論理判断のアルゴリズム作成を試みている。
+インド・チベット密教に興味があり、特に密教の龍樹による『五次第（Pañcakrama）』と、それに関連するジェ・ツォンカパによる『五次第を明らかにする灯明（Rim lnga rab tu gsal ba'i sgron me）』などのチベットの諸注釈に興味があり、現在読解を進めている。これは、人間が死ぬ際に向き合うことになる光明という精神状態を利用した修行法を説く究竟次第に関わる典籍で、この研究によって人類の精神の安定や死への理解に貢献することができる。さらに、チベットのドゥラ文献の論理構造を分析した上で、Prolog などの論理プログラミング言語を用いた論理判断のアルゴリズム作成を試みている。また、苦しみについて何が語られ、何が語られないかという観点から、語りの分析に興味がある。
 
 
 ## 経歴
