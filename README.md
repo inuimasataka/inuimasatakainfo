@@ -11,7 +11,7 @@ Through the study of Buddhism, especially Tantric teachings on suffering and dea
 
 (2) In order to fully conduct the above research, it is necessary to examine how logic has been formed and utilised in Indo-Tibetan Buddhism, how the view of Śūnyatā, or sTong pa nyid has been developed in the Indian Buddhist philosophical schools, including Prasangika-Madhyamaka, or dBu ma thal ‘gyur pa, how they were understood, how they were accepted, interpreted and passed on by Tibetan Buddhist monks, and how they were utilised in esoteric monasticism.
 
-(3) In relation to the above, to analyse the logics constructed by Indo-Tibetan Buddhism and to use their structure in building computer algorithms, as well as in education through dialogue.
+(3) In relation to the above, to analyse the logics constructed by Indo-Tibetan Buddhism and to use their structure in building computer and AI algorithms, as well as in education through dialogue.
 
 (4) To build up a database of the texts such as Tripitaka and the audio recordings of the lectures of the lamas in Tibetan Buddhism, in order to fully carry out the above studies.
 
@@ -58,7 +58,7 @@ Dec. 2023  Awarded 33rd Icho Namiki Literature Award for my literary work “Wak
 Apr. 2024  "Wakai", Komaba.
 
 ## Keywords
-Pañcakrama, rDzogs rim, Guhyasamājatantra, Tantric Buddhism, Vimokṣa, Altruism, Citta, Happiness, Well-being, Suffering, Death, Kea (Caring), Bodhisattva, Spirituality, Prayer, Tsongkhapa, dGe-lugs-pa, Madhyamaka philosophy, Logic, bsDus grwa, Lineage, Practice, Education through dialogue, Monastic education, Emic, Narrative analysis, Peace construction, Database, Natural Language Processing, Transmission (rgyud).
+Pañcakrama, rDzogs rim, Guhyasamājatantra, Tantric Buddhism, Vimokṣa, Altruism, Citta, Happiness, Well-being, Suffering, Death, Kea (Caring), Bodhisattva, Spirituality, Prayer, Tsongkhapa, dGe lugs pa, Madhyamaka philosophy, Logic, AI, bsDus grwa, Lineage, Practice, Education through dialogue, Monastic education, Emic, Narrative analysis, Peace building, Database, Natural Language Processing, Transmission (rgyud).
 
 ## Research Areas
 Buddhist studies, Indian philosophy, Tibetan Buddhism, Tibetology, Tantric Buddhism, Neurology, Logic, Information science, Thanatology, Practical Religious Studies, Psychology, Japanese philosophy, Digital Humanities.
@@ -84,7 +84,7 @@ https://linktr.ee/inuimasataka
 
 (2) 以上の研究を十全に行うために、インド-チベット仏教において、論理学がどのように形成され、典籍を記述する際にどのように活用されてきたか、また、中観帰謬論派（dbu ma thal 'gyur pa）をはじめとするインド仏教の哲学学派の中で、空性（stong pa nyid）の見解がどのように理解されていたか、またそれがチベット仏教僧によりどのように受容され、どのように解釈され、どのように継承されたか、特に密教の修道の中でどのように活用されたかについて明らかにすること。
 
-(3) 以上に関連して、インド-チベット仏教が構築してきた論理学を分析し、その構造をコンピューターのアルゴリズムの構築に利用すること、さらに、対話を通じた教育に活用すること。
+(3) 以上に関連して、インド-チベット仏教が構築してきた論理学を分析し、その構造をコンピューターやAIのアルゴリズムの構築に利用すること、さらに、対話を通じた教育に活用すること。
 
 (4) 以上の研究を十全に行うために、インド-チベット仏教に関わる三蔵に代表される典籍の、そして高僧の講義の音声の、データベースを構築すること。
 
@@ -130,7 +130,7 @@ https://linktr.ee/inuimasataka
 2024年4月　　『和解』（駒場）。
 
 ## キーワード
-五次第、究竟次第、秘密集会タントラ、後期密教、解脱、利他、心、幸せ、ウェルビーイング、苦しみ、ケア、死、菩薩、霊性、祈り、ツォンカパ、ゲルク派、中観哲学、論理学、ドゥラ、血脈、実践、対話的な学び、僧院教育、イーミック、語りの分析、平和構築、データベース、自然言語処理、知の継承
+五次第、究竟次第、秘密集会タントラ、後期密教、解脱、利他、心、幸せ、ウェルビーイング、苦しみ、ケア、死、菩薩、霊性、祈り、ツォンカパ、ゲルク派、中観哲学、論理学、AI、ドゥラ、血脈、実践、対話的な学び、僧院教育、イーミック、語りの分析、平和構築、データベース、自然言語処理、知の継承
 
 ## 研究分野
 仏教学、インド哲学、チベット仏教、チベット学、密教学、神経学、論理学、情報学、死生学、実践宗教学、心理学、日本思想、人文情報学 
