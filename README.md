@@ -7,7 +7,20 @@ Through the study of Buddhism, especially Tantric teachings on suffering and dea
 
 
 ## Research Goal
-To reveal Indo-Tibetan Tantric Buddhism, especially how the lineage, the teachings, and the practices were inherited in the Gelug school in Tibet, based on the interdisciplinary methodologies of Buddhist studies and other studies related to the human mind.
+(1) To reveal Indo-Tibetan Tantric Buddhism, especially how the lineage, the teachings, and the practices were inherited in the Gelug school in Tibet, based on the interdisciplinary methodologies of Buddhist studies and other studies related to the human mind. To clarify how this tradition has been handed down from multiple perspectives, such as thought and practice. In addition, its success or failure must be evaluated from the perspective of whether or not it contributes to the attainment of Buddhahood.
+
+(2) In order to fully conduct the above research, it is necessary to examine how logic has been formed and utilised in Indo-Tibetan Buddhism, how the view of Śūnyatā, or sTong pa nyid has been developed in the Indian Buddhist philosophical schools, including Prasangika-Madhyamaka, or dBu ma thal ‘gyur pa, how they were understood, how they were accepted, interpreted and passed on by Tibetan Buddhist monks, and how they were utilised in esoteric monasticism.
+
+(3) In relation to the above, to analyse the logics constructed by Indo-Tibetan Buddhism and to use their structure in building computer algorithms, as well as in education through dialogue.
+
+(4) To build up a database of the texts such as Tripitaka and the audio recordings of the lectures of the lamas in Tibetan Buddhism, in order to fully carry out the above studies.
+
+(5) To widely integrate the above studies with the knowledge of other religions, literature, art, history, society, life and death and other spiritual activities of humankind, to analyse spirituality and its narratives that precede thought and religion, and to seek ways of solidarity, dialogue and cooperation among human beings. To explore the relationship between spiritual states such as happiness, suffering and care, which human beings can satisfy through mutual relationships, and individual states of mind such as compassion and altruism, and to propose a state of human society that is considered to be happy for each of them.
+
+(6) To consider how death, suffering and the living body and mind based on the tradition of rnal 'byor bla na med pa'i rgyud may or may not be described by the findings of modern science, such as medicine and neurology. To devise a method of spiritual security using the rnal 'byor bla na med pa'i rgyud method of practice based on these considerations.
+
+(7) In relation to the above, to investigate the diversity and inclusive environment of the Indo-Pacific and Buddhist worlds, especially the inclusive environment surrounding dialogue and thought, and to contribute to the future peace-building of human society in terms of language, dialogue, logic, law, philosophy, thought and spirituality. In this process, it is necessary to analyse the narratives in terms of what is told and what is not about suffering.
+
 
 
 ## Mission
@@ -67,7 +80,19 @@ https://linktr.ee/inuimasataka
 
 
 ## 研究上の目標
-仏教学をはじめとした人間の心に関わる諸学の学際的な方法論に基づき、インド・チベット密教、特にチベット仏教のゲルク派における密教の血脈・知・実践がどのように継承されてきたかを明らかにすること。
+(1) dGe lugs pa （ゲルク派）において、 guhyasamājatantra や cakrasaṃvaratantra をはじめとする後期密教、あるいはチベットにおいて rnal ʼbyor bla na med paʼi rgyud （無上瑜伽タントラ）と呼ばれる伝統がいかに継承されてきたかについて、思想や実践といった複数の観点から、明らかにすること。また、その成否は成仏に資するか否かという観点により評価されなければならない。
+
+(2) 以上の研究を十全に行うために、インド-チベット仏教において、論理学がどのように形成され、典籍を記述する際にどのように活用されてきたか、また、中観帰謬論派（dbu ma thal 'gyur pa）をはじめとするインド仏教の哲学学派の中で、空性（stong pa nyid）の見解がどのように理解されていたか、またそれがチベット仏教僧によりどのように受容され、どのように解釈され、どのように継承されたか、特に密教の修道の中でどのように活用されたかについて明らかにすること。
+
+(3) 以上に関連して、インド-チベット仏教が構築してきた論理学を分析し、その構造をコンピューターのアルゴリズムの構築に利用すること、さらに、対話を通じた教育に活用すること。
+
+(4) 以上の研究を十全に行うために、インド-チベット仏教に関わる三蔵に代表される典籍の、そして高僧の講義の音声の、データベースを構築すること。
+
+(5) 以上の研究と他の宗教や文学、芸術、歴史、社会、死生など人類の精神的な営みについての学知を広く融合し、思想や宗教に先立つ霊性（spirituality）とその語りについて分析し、宗教や思想を超えた人類間連帯と対話、協力のあり方を模索すること、また、幸せ、苦しみ、ケアといった人間が相互の関係によって満たすことのできるような精神状態と慈悲心や利他心といった個々の心のあり方との連関を探り、それぞれにとって幸福と思われる人類の社会の状態について提言すること。
+
+(6) 以上の研究によって、無上瑜伽タントラの伝承に基づくヒトの死、苦しみ、生きている身心の捉え方がどのように医学や神経学といった現代科学の知見により記述されうるか、あるいはされえないかについて考察すること、またその考察に基づいて、無上瑜伽タントラの修道方法を利用した精神の安全保障の方法を考案すること。
+
+(7) 以上に関連して、インド太平洋（Indo-pacific）や各地の仏教世界の持つ多様性と包摂的な（inclusive）な環境、特に対話と思想を取り巻く包摂的な環境について調査し、言語、対話、論理、法、哲学、思想、霊性といった観点から、将来の人類社会の平和構築に貢献すること。その際に、苦しみについて何が語られ、何が語られないかという観点から、語りの分析が必要となる。
 
 
 ## 使命
