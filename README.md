@@ -1,6 +1,6 @@
 # For a compassionate world.
 # Masataka INUI
-(Studying Indo-Tibetan Tantic Buddhism at the University of Tokyo. A Buddhist Monk of Koyasan Shingon Sect. Sepecialising in rJe tsong kha pa studies related to Pañcakrama.)
+(Studying Indo-Tibetan Tantric Buddhism at the University of Tokyo. A Buddhist Monk of Koyasan Shingon Sect. Specialising in rJe tsong kha pa studies related to Pañcakrama.)
 
 ## Vision
 Through the study of Buddhism, especially Tantric teachings on suffering and death, to construct transformative views of life and death for humanity, and to build a more stable human mind and a global environment that supports the well-being of all living beings.
