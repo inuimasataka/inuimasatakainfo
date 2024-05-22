@@ -4,10 +4,12 @@
 
 
 ## Vision
-Through the study of Buddhism, especially Tantric teachings on suffering and death, to construct transformative views of life and death for humanity, and to build a more stable human mind and a global environment that supports the well-being of all living beings.
+Through the study of Buddhism, especially Tantric teachings on suffering and death, to construct transformative views of life and death for humanity, and to build a more stable human spirit and a global environment that supports the well-being of all living beings.
 
 
-## Research Goals
+## Mission
+To achieve the vision above, I am dedicated to the following mission.
+
 (1) Tantric Buddhism: To reveal Indo-Tibetan Tantric Buddhism, especially how the lineage, the teachings, and the practices were inherited in the Gelug school in Tibet, based on the interdisciplinary methodologies of Buddhist studies and other studies related to the human mind. To clarify how the tradition of rnal ʼbyor bla na med paʼi rgyud has been handed down from multiple perspectives, such as thought and practice. In addition, its success or failure must be evaluated from the perspective of whether or not it contributes to the attainment of Buddhahood.
 
 (2) Śūnyatā Thought: To reveal how the view of śūnyatā, or stong pa nyid has been developed in the Indian Buddhist philosophical schools, including *Prasangika, or dBu ma thal ‘gyur pa, how they were understood, how they were accepted, interpreted and passed on by Tibetan Buddhist monks, and how they were utilised in esoteric monasticism.
@@ -16,14 +18,14 @@ Through the study of Buddhism, especially Tantric teachings on suffering and dea
 
 (4) Knowledge Preservation: To build up a database of the texts such as Tripitaka and the audio recordings of the lectures of the lamas in Tibetan Buddhism, in order to fully carry out the above studies. Furthermore, to create in virtual reality the worldviews that are visualised in the bskyed rim. To use augmented reality to preserve the spiritual culture of various regions, which is being lost.
 
-(5) Spirituality: To widely integrate the above studies with the knowledge of other religions, literature, art, history, society, life and death and other spiritual activities of humankind, to analyse spirituality and its narratives that precede thought and religion, and to seek ways of solidarity, dialogue and cooperation among human beings. To explore the relationship between spiritual states such as happiness, suffering and care, which human beings can satisfy through mutual relationships, and individual states of mind such as compassion and altruism, and to propose a state of human society that is considered to be happy for each of them.
+(5) Spirituality: To widely integrate the above studies with the knowledge of other religions, literature, prayer, art, history, society, life and death and other spiritual activities of humankind, to analyse spirituality and its narratives that precede thought and religion, and to seek ways of solidarity, dialogue and cooperation among human beings. To explore the relationship between spiritual states such as happiness, suffering and care, which human beings can satisfy through mutual relationships, and individual states of mind such as compassion and altruism, and to propose a state of human society that is considered to be happy for each of them.
 
 (6) Spiritual Security: To consider how death, suffering and the living body and mind based on the tradition of rnal 'byor bla na med pa'i rgyud may or may not be described by the findings of modern science, such as medicine and neurology. To devise a method of spiritual security using the rnal 'byor bla na med pa'i rgyud method of practice based on these considerations.
 
 (7) Peacebuilding: In relation to the above, to investigate the diversity and inclusive environment of the Indo-Pacific and Buddhist worlds, especially the inclusive environment surrounding dialogue and thought, and to contribute to the future peace-building of human society in terms of language, dialogue, logic, law, philosophy, thought and spirituality. In this process, it is necessary to analyse the narratives in terms of what is told and what is not about suffering.
 
 
-## Mission
+## Contribution
 As Buddhist studies deal with a multilingual and pan-Asian scope, I believe that Buddhist studies will enable us  (1) to contribute to the construction of a basis for dialogue in the Asian world. Furthermore, as Japanese thought is greatly influenced by Buddhism, Buddhist studies enable us (2) to contribute to the continuous renewal of our understanding of Japan. Moreover, as Buddhism is a religion with the motivation to realise the happiness of all living beings, I believe that Buddhist studies at least enables us (3) to contribute to the realisation of a peaceful and stable spirit in mankind. My research must be motivated by a commitment to these long-term contributions to humanity.
 
 
@@ -86,7 +88,9 @@ https://linktr.ee/inuimasataka
 仏教、特に苦と死に関わる密教の教えの研究を通じて、人類にとって変革的な死生観を構築し、より安定した人間の心と一切の生物の幸せを支える地球環境を築くこと。
 
 
-## 研究上の目標
+## 使命
+上の構想を実現するために、私は以下の使命に捧げる。
+
 (1) 密教：インド・チベットのタントラ仏教、特にチベットのゲルク派において、その系譜、教え、実践がどのように継承されてきたかを、仏教学と人間の心に関わる他の学問との学際的方法論に基づいて明らかにする。rnal ʼbyor bla na med paʼi rgyud （無上瑜伽タントラ）と呼ばれる伝統がどのように受け継がれてきたのかを、思想や実践など多角的な視点から明らかにする。
 
 (2) 空思想：中観帰謬論派（*prasangika, dbu ma thal 'gyur pa）をはじめとするインド仏教の哲学学派の中で、空性（śūnyatā, stong pa nyid）の見解がどのように理解されていたか、またそれがチベット仏教僧によりどのように受容され、どのように解釈され、どのように継承されたか、特に密教の修道の中でどのように活用されたかについて明らかにする。また、その成否は、成仏に資するか否かという観点から評価されなければならない。
@@ -95,14 +99,14 @@ https://linktr.ee/inuimasataka
 
 (4) 知の保全：以上の研究を十全に行うために、インド-チベット仏教に関わる三蔵に代表される典籍の、そして高僧の講義の音声の、データベースを構築すること。さらに、生起次第（bskyed rim）において観想される世界観について、仮想現実上に表現すること。失われつつある各地の精神文化について、拡張現実を利用しながら、その継承を図ること。
 
-(5) 霊性：以上の研究と他の宗教や文学、芸術、歴史、社会、死生など人類の精神的な営みについての学知を広く融合し、思想や宗教に先立つ霊性（spirituality）とその語りについて分析し、宗教や思想を超えた人類間連帯と対話、協力のあり方を模索すること、また、幸せ、苦しみ、ケアといった人間が相互の関係によって満たすことのできるような精神状態と慈悲心や利他心といった個々の心のあり方との連関を探り、それぞれにとって幸福と思われる人類の社会の状態について提言すること。
+(5) 霊性：以上の研究と他の宗教や文学、祈り、芸術、歴史、社会、死生など人類の精神的な営みについての学知を広く融合し、思想や宗教に先立つ霊性（spirituality）とその語りについて分析し、宗教や思想を超えた人類間連帯と対話、協力のあり方を模索すること、また、幸せ、苦しみ、ケアといった人間が相互の関係によって満たすことのできるような精神状態と慈悲心や利他心といった個々の心のあり方との連関を探り、それぞれにとって幸福と思われる人類の社会の状態について提言すること。
 
 (6) 精神の安全保障：以上の研究によって、無上瑜伽タントラの伝承に基づくヒトの死、苦しみ、生きている身心の捉え方がどのように医学や神経学といった現代科学の知見により記述されうるか、あるいはされえないかについて考察すること、またその考察に基づいて、無上瑜伽タントラの修道方法を利用した精神の安全保障の方法を考案すること。
 
 (7) 平和構築：以上に関連して、インド太平洋（Indo-pacific）や各地の仏教世界の持つ多様性と包摂的な（inclusive）な環境、特に対話と思想を取り巻く包摂的な環境について調査し、言語、対話、論理、法、哲学、思想、霊性といった観点から、将来の人類社会の平和構築に貢献すること。その際に、苦しみについて何が語られ、何が語られないかという観点から、語りの分析が必要となる。
 
 
-## 使命
+## 貢献
 仏教学が多言語・全アジア的な範囲を扱うことから、仏教研究によって、(1) アジア世界の対話の基礎の構築に貢献すること、が可能になると考える。さらに、日本思想は仏教の影響を大きく受けているため、仏教研究によって、(2) 日本の理解の継続的更新に貢献すること、が可能になると考える。そして、仏教が生きとし生けるものの幸福を実現しようという動機を持つ宗教であるため、仏教研究によってすくなくとも、(3) 人類の平安で安定した精神の実現に貢献すること、が可能になると考える。私の研究は、これらの人類への長期的な貢献への責務を動機とするものでなければならない。
 
 
