@@ -22,7 +22,7 @@ To achieve the vision above, I am dedicated to the following mission.
 
 (6) Spiritual Security: To consider how death, suffering and the living body and mind based on the tradition of rnal 'byor bla na med pa'i rgyud may or may not be described by the findings of modern science, such as medicine, neurology and brain science. To devise a method of spiritual security using the rnal 'byor bla na med pa'i rgyud method of practice based on these considerations.
 
-(7) Peacebuilding: In relation to the above, to investigate the diversity and inclusive environment of the Indo-Pacific and Buddhist worlds, especially the inclusive environment surrounding dialogue and thought, and to contribute to the future peace-building of human society in terms of language, dialogue, logic, law, philosophy, thought and spirituality. In this process, it is necessary to analyse the narratives in terms of what is told and what is not about suffering.
+(7) Peacebuilding: In relation to the above, to investigate the diversity and compassionate and inclusive environment of the Indo-Pacific and Buddhist worlds, especially the inclusive environment surrounding dialogue and thought, and to contribute to the future peace-building of human society in terms of language, dialogue, logic, law, philosophy, thought and spirituality. In this process, it is necessary to analyse the narratives in terms of what is told and what is not about suffering.
 
 
 ## Scope of Buddhist Studies
@@ -30,7 +30,7 @@ As Buddhist studies deal with a multilingual and pan-Asian scope, I believe that
 
 
 ## About My Research
-Interested in Indo-Tibetan Tantric Buddhism, especially Pañcakrama by tantric Nāgārjuna and its Tibetan commentaries such as Rim lnga rab tu gsal ba'i sgron me by rJe Tsong kha pa, and now working on them. The study of the texts on rdzogs rim, which explains how to practise using the mental state of ‘od gsal that humans face when they die, can contribute to the well-being of humankind and to our understanding of death. Furthermore, on the basis of analysing the logical structure of Tibetan bsDus grwa literature, trying to build an algorithm for logical judgement with the help of logic programming languages such as Prolog. Moreover, interested in narrative analysis, in terms of what is told and what is not about his or her own sufferings.
+I study Indo-Tibetan Tantric Buddhism. In particular, I am reading the Pañcakrama by Tantric Nāgārjuna and related Tibetan commentaries such as rJe Tsongkhapa's Rim lnga rab tu gsal ba'i sgron me. The Pañcakrama is based on Guhyasamājatantra (gsang ba 'dus pa), which is regarded as a follow-up to the Tattvasaṃgrahasūtra, which also greatly influenced Japanese esoteric Buddhism. It is a fundamental canonical text for rDzogs rim (niṣpannakrama). rJe Tsongkhapa, the founder of dGe lugs pa school, the largest school of Tibetan Buddhism, authored Rim lnga rab tu gsal ba'i sgron me, which is one of his last works, and occupies an important place in the study of thought, particularly in relation to emptiness and tantric monasticism. It describes the practices that utilise the mental state of ‘od gsal that humans face at the time of death, and philosophy that makes this possible. This research can contribute to humanity's spiritual stability and understanding of death. In this century of medical and brain science developments, tantric practices and texts can provide us an important guide to our understanding of life, death and suffering.
 
 
 ## Background
@@ -62,7 +62,7 @@ Apr. 2024  "Wakai", Komaba.
 
 
 ## Keywords
-Pañcakrama, rDzogs rim, Guhyasamājatantra, Tantric Buddhism, Vimokṣa, Altruism, Citta, Happiness, Well-being, Suffering, Death, Kea (Caring), Bodhisattva, Spirituality, Prayer, Tsongkhapa, dGe lugs pa, Madhyamaka philosophy, Logic, Machine learning, bsDus grwa, Lineage, Practice, Education through dialogue, Monastic education, Emic, Narrative analysis, Peace building, Database, Natural Language Processing, Transmission (rgyud).
+Pañcakrama, rDzogs rim, Guhyasamājatantra, Tantric Buddhism, Vimokṣa, Altruism, Compassion, Citta, Happiness, Well-being, Suffering, Death, Kea (Caring), Bodhisattva, Spirituality, Prayer, Tsongkhapa, dGe lugs pa, Madhyamaka philosophy, Logic, Machine learning, bsDus grwa, Lineage, Practice, Education through dialogue, Monastic education, Emic, Narrative analysis, Peace building, Database, Natural Language Processing, Transmission (rgyud).
 
 
 ## Research Areas
@@ -78,8 +78,7 @@ https://linktr.ee/inuimasataka
 
 
 —
-
-
+# 慈悲深い世界に
 # 乾　将崇（いぬい・まさたか）
 （東京大学でインド・チベット密教を勉強中。高野山真言宗。五次第に関連するジェ・ツォンカパ研究を専門。）
 
@@ -101,9 +100,9 @@ https://linktr.ee/inuimasataka
 
 (5) 霊性：以上の研究と他の宗教や文学、祈り、芸術、歴史、社会、死生など人類の精神的な営みについての学知を広く融合し、思想や宗教に先立つ霊性（spirituality）とその語りについて分析し、宗教や思想を超えた人類間連帯と対話、協力のあり方を模索すること、また、幸せ、苦しみ、ケアといった人間が相互の関係によって満たすことのできるような精神状態と慈悲心や利他心といった個々の心のあり方との連関を探り、それぞれにとって幸福と思われる人類の社会の状態について提言すること。
 
-(6) 精神の安全保障：以上の研究によって、無上瑜伽タントラの伝承に基づくヒトの死、苦しみ、生きている身心の捉え方がどのように医学や神経学、脳科学といった現代科学の知見により記述されうるか、あるいはされえないかについて考察すること、またその考察に基づいて、無上瑜伽タントラの修道方法を利用した精神の安全保障の方法を考案すること。
+(6) こころの安全保障：以上の研究によって、無上瑜伽タントラの伝承に基づくヒトの死、苦しみ、生きている身心の捉え方がどのように医学や神経学、脳科学といった現代科学の知見により記述されうるか、あるいはされえないかについて考察すること、またその考察に基づいて、無上瑜伽タントラの修道方法を利用した精神の安全保障の方法を考案すること。
 
-(7) 平和構築：以上に関連して、インド太平洋（Indo-pacific）や各地の仏教世界の持つ多様性と包摂的な（inclusive）な環境、特に対話と思想を取り巻く包摂的な環境について調査し、言語、対話、論理、法、哲学、思想、霊性といった観点から、将来の人類社会の平和構築に貢献すること。その際に、苦しみについて何が語られ、何が語られないかという観点から、語りの分析が必要となる。
+(7) 平和構築：以上に関連して、インド太平洋（Indo-pacific）や各地の仏教世界の持つ多様性と慈悲深く、包摂的な（inclusive）な環境、特に対話と思想を取り巻く包摂的な環境について調査し、言語、対話、論理、法、哲学、思想、霊性といった観点から、将来の人類社会の平和構築に貢献すること。その際に、苦しみについて何が語られ、何が語られないかという観点から、語りの分析が必要となる。
 
 
 ## 仏教学の射程
@@ -111,7 +110,7 @@ https://linktr.ee/inuimasataka
 
 
 ## 私の研究について
-インド・チベット密教に興味があり、特に密教の龍樹による『五次第（Pañcakrama）』と、それに関連するジェ・ツォンカパによる『五次第を明らかにする灯明（Rim lnga rab tu gsal ba'i sgron me）』などのチベットの諸注釈に興味があり、現在読解を進めている。これは、人間が死ぬ際に向き合うことになる光明という精神状態を利用した修行法を説く究竟次第に関わる典籍で、この研究によって人類の精神の安定や死への理解に貢献することができる。さらに、チベットのドゥラ文献の論理構造を分析した上で、Prolog などの論理プログラミング言語を用いた論理判断のアルゴリズム作成を試みている。また、苦しみについて何が語られ、何が語られないかという観点から、語りの分析に興味がある。
+インド-チベット密教について勉強しています。特に密教の龍樹による『五次第（Pañcakrama）』と、それに関連するジェ・ツォンカパによる『五次第を明らかにする灯明（Rim lnga rab tu gsal ba'i sgron me）』などのチベットの諸注釈を読んでいます。『五次第（Pañcakrama）』は、日本の密教にも大きな影響を与えたいわゆる『金剛頂経（tattvasaṃgrahasūtra）』の後続経典とされる『秘密集会タントラ（guhyasamājatantra, gsang ba 'dus pa）』に基づく究竟次第（rdzogs rim, niṣpannakrama）に対する根本的な典籍です。それに関連して、チベット仏教最大の宗派であるゲルク派の祖、ジェ-ツォンカパが『五次第を明らかにする灯明』を著作しました。『五次第を明らかにする灯明』はツォンカパ最晩年の著作であり、特に空性と密教修道との関連など思想研究上で重要な位置を占めます。人間が死ぬ際に向き合うことになる光明という精神状態を利用した修行法とそれを可能にする哲学がどのようなものかについて述べています。この研究によって人類の精神の安定や死への理解に貢献することができます。密教の修行と典籍は、医療や脳科学の発展の今世紀にあって、私たちの生や死、そして苦しみといったものがどういうものなかのかを考える際に重要な手引きとなるでしょう。
 
 
 ## 経歴
@@ -143,7 +142,7 @@ https://linktr.ee/inuimasataka
 
 
 ## キーワード
-五次第、究竟次第、秘密集会タントラ、後期密教、解脱、利他、心、幸せ、ウェルビーイング、苦しみ、ケア、死、菩薩、霊性、祈り、ツォンカパ、ゲルク派、中観哲学、論理学、機械学習、ドゥラ、血脈、実践、対話的な学び、僧院教育、イーミック、語りの分析、平和構築、データベース、自然言語処理、知の継承
+五次第、究竟次第、秘密集会タントラ、後期密教、解脱、利他、慈悲、心、幸せ、ウェルビーイング、苦しみ、ケア、死、菩薩、霊性、祈り、ツォンカパ、ゲルク派、中観哲学、論理学、機械学習、ドゥラ、血脈、実践、対話的な学び、僧院教育、イーミック、語りの分析、平和構築、データベース、自然言語処理、知の継承
 
 
 ## 研究分野
