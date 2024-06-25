@@ -51,7 +51,7 @@ Mar. 2024  Completed Shido Kegyo (Prayoga) in Koyasan, Wakayama, Japan.
 Apr. 2024  Moved to Dpt. of Indian Philosophy and Buddhist Studies at the University of Tokyo, Japan.
 
 
-## Awards etc.
+## Honours and Awards
 Mar. 2022  Awarded the Koyasan Shingon Sect Chief Abbot Award for my academic excellence in high school.
 
 Dec. 2023  Awarded 33rd Icho Namiki Literature Award for my literary work “Wakai”.
@@ -133,7 +133,7 @@ https://linktr.ee/inuimasataka
 2024年4月　　東京大学文学部人文学科インド哲学仏教学専修進学。
 
 
-## 受賞など
+## 栄誉・受賞
 2022年3月　　高野山真言宗管長賞、受賞（高校時代の学業成績に対して）。
 
 2023年11月　　第33回銀杏並木文学賞、入賞（小説『和解』に対して）。
