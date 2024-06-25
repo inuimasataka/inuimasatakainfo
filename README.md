@@ -56,6 +56,8 @@ Mar. 2022  Awarded the Koyasan Shingon Sect Chief Abbot Award for my academic ex
 
 Dec. 2023  Awarded 33rd Icho Namiki Literature Award for my literary work “Wakai”.
 
+Jun. 2024  Scholarship Tobitate Study Abroad Initiative 2024 by MEXT, Japanese Government, for study in Gyudmed Tantric University, Tibetan settlement, Karnataka India.
+
 
 ## Published works
 Apr. 2024  "Wakai", Komaba.
@@ -135,6 +137,8 @@ https://linktr.ee/inuimasataka
 2022年3月　　高野山真言宗管長賞、受賞（高校時代の学業成績に対して）。
 
 2023年11月　　第33回銀杏並木文学賞、入賞（小説『和解』に対して）。
+
+2024年6月　　奨学金トビタテ留学JAPAN第16期派遣留学生（日本政府文部科学省）、採用（インド・カルナータカ州チベット人入植地にあるギュメ密教大学への留学に対して）。
 
 
 ## 出版された作品
