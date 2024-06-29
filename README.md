@@ -52,6 +52,8 @@ Apr. 2024  Moved to Dpt. of Indian Philosophy and Buddhist Studies at the Univer
 
 
 ## Honours and Awards
+Oct. 2020  Awarded 31st Oi Ocha New Haiku Award Kasaku for my Haiku.
+
 Mar. 2022  Awarded the Koyasan Shingon Sect Chief Abbot Award for my academic excellence in high school.
 
 Dec. 2023  Awarded 33rd Icho Namiki Literature Award for my literary work “Wakai”.
@@ -134,6 +136,8 @@ https://linktr.ee/inuimasataka
 
 
 ## 栄誉・受賞
+2020年10月　　第31回伊藤園お〜いお茶新俳句大賞、佳作（俳句作品に対して）。
+
 2022年3月　　高野山真言宗管長賞、受賞（高校時代の学業成績に対して）。
 
 2023年11月　　第33回銀杏並木文学賞、入賞（小説『和解』に対して）。
