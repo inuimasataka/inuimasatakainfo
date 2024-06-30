@@ -66,11 +66,11 @@ Apr. 2024  "Wakai", Komaba.
 
 
 ## Keywords
-Pañcakrama, rDzogs rim, Guhyasamājatantra, Tantric Buddhism, Vimokṣa, Altruism, Compassion, Citta, Happiness, Well-being, Suffering, Death, Kea (Caring), Bodhisattva, Spirituality, Prayer, Kūkai, Shingon sect, Tsongkhapa, dGe lugs pa, Madhyamaka philosophy, Logic, Machine learning, bsDus grwa, Lineage, Practice, Education through dialogue, Monastic education, Emic, Narrative analysis, Peace building, Database, Natural Language Processing, Transmission (rgyud).
+Pañcakrama, rDzogs rim, Guhyasamājatantra, Tantric Buddhism, Vimokṣa, Altruism, Compassion, Citta, Happiness, Well-being, Suffering, Death, Kea (Caring), Bodhisattva, Spirituality, Prayer, Kūkai, Shingon sect, Tsongkhapa, dGe lugs pa, Madhyamaka philosophy, Logic, Machine learning, bsDus grwa, Lineage, Practice, Education through dialogue, Monastic education, Emic, Narrative analysis, Religious Politics, Peace building, Database, Natural Language Processing, Transmission (rgyud).
 
 
 ## Research Areas
-Buddhist studies, Indian philosophy, Tibetan Buddhism, Tibetology, Tantric Buddhism, Neurology, Logic, Information science, Thanatology, Practical Religious Studies, Psychology, Japanese philosophy, Digital Humanities.
+Religious Studies, Philosophy, Buddhist Studies, Tibetan Buddhism, Tibetology, Indology, Tantric Buddhism, Neurology, Logic, Informatics, Thanatology, Ethics, Japanese Philosophy.
 
 
 ## Updates (Published Papers etc.)
@@ -150,11 +150,11 @@ https://linktr.ee/inuimasataka
 
 
 ## キーワード
-五次第、究竟次第、秘密集会タントラ、後期密教、解脱、利他、慈悲、心、幸せ、ウェルビーイング、苦しみ、ケア、死、菩薩、霊性、祈り、空海、真言宗、ツォンカパ、ゲルク派、中観哲学、論理学、機械学習、ドゥラ、血脈、実践、対話的な学び、僧院教育、イーミック、語りの分析、平和構築、データベース、自然言語処理、知の継承
+五次第、究竟次第、秘密集会タントラ、後期密教、解脱、利他、慈悲、心、幸せ、ウェルビーイング、苦しみ、ケア、死、菩薩、霊性、祈り、空海、真言宗、ツォンカパ、ゲルク派、中観哲学、論理学、機械学習、ドゥラ、血脈、実践、対話的な学び、僧院教育、イーミック、語りの分析、宗教政策、平和構築、データベース、自然言語処理、知の継承。
 
 
 ## 研究分野
-仏教学、インド哲学、チベット仏教、チベット学、密教学、神経学、論理学、情報学、死生学、実践宗教学、心理学、日本思想、人文情報学 
+宗教学、哲学、仏教学、チベット仏教、チベット学、インド学、密教学、神経学、論理学、情報学、死生学、倫理学、日本思想。
 
 
 ## 近況（出版された論文等）
