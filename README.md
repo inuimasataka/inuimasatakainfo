@@ -22,7 +22,9 @@ To achieve the vision above, I am dedicated to the following mission.
 
 (6) Spiritual Security: To consider how death, suffering and the living body and mind based on the tradition of rnal 'byor bla na med pa'i rgyud may or may not be described by the findings of modern science, such as medicine, neurology and brain science. To devise a method of spiritual security using the rnal 'byor bla na med pa'i rgyud method of practice based on these considerations.
 
-(7) Peacebuilding: In relation to the above, to investigate the diversity and compassionate and inclusive environment of the Indo-Pacific and Buddhist worlds, especially the inclusive environment surrounding dialogue and thought, and to contribute to the future peace-building of human society in terms of language, dialogue, logic, law, philosophy, thought and spirituality. In this process, it is necessary to analyse the narratives in terms of what is told and what is not about suffering.
+(7) Religious Diplomacy: in relation to the above studies, to analyse the state of religious diplomacy in terms of religious freedom, religious education, the social impact of religion, religious reconciliation and interreligious dialogue and to make policy proposals on religious diplomacy at the national and international level in order to build a more spiritually stable human society.
+
+(8) Peacebuilding: In relation to the above, to investigate the diversity and compassionate and inclusive environment of the Indo-Pacific and Buddhist worlds, especially the inclusive environment surrounding dialogue and thought, and to contribute to the future peace-building of human society in terms of language, dialogue, logic, law, philosophy, thought and spirituality. In this process, it is necessary to analyse the narratives in terms of what is told and what is not about suffering.
 
 
 ## Scope of Buddhist Studies
@@ -106,7 +108,9 @@ https://linktr.ee/inuimasataka
 
 (6) こころの安全保障：以上の研究によって、無上瑜伽タントラの伝承に基づくヒトの死、苦しみ、生きている身心の捉え方がどのように医学や神経学、脳科学といった現代科学の知見により記述されうるか、あるいはされえないかについて考察すること、またその考察に基づいて、無上瑜伽タントラの修道方法を利用した精神の安全保障の方法を考案すること。
 
-(7) 平和構築：以上に関連して、インド太平洋（Indo-pacific）や各地の仏教世界の持つ多様性と慈悲深く、包摂的な（inclusive）な環境、特に対話と思想を取り巻く包摂的な環境について調査し、言語、対話、論理、法、哲学、思想、霊性といった観点から、将来の人類社会の平和構築に貢献すること。その際に、苦しみについて何が語られ、何が語られないかという観点から、語りの分析が必要となる。
+(7) 宗教外交：以上に関連して、信教の自由、宗教教育、宗教の社会的影響、宗教的和解、宗教間対話などの観点から宗教外交の状況を分析し、より精神的に安定した人間社会を構築するために、国内および国際レベルでの宗教外交に関する政策提言を行う。
+
+(8) 平和構築：以上に関連して、インド太平洋（Indo-pacific）や各地の仏教世界の持つ多様性と慈悲深く、包摂的な（inclusive）な環境、特に対話と思想を取り巻く包摂的な環境について調査し、言語、対話、論理、法、哲学、思想、霊性といった観点から、将来の人類社会の平和構築に貢献すること。その際に、苦しみについて何が語られ、何が語られないかという観点から、語りの分析が必要となる。
 
 
 ## 仏教学の射程
