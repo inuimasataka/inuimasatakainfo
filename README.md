@@ -1,6 +1,6 @@
 # For a compassionate world.
 # Masataka INUI
-(Studying Indo-Tibetan Tantric Buddhism at the University of Tokyo. A Buddhist Monk of Koyasan Shingon Sect. Specialising in rJe tsong kha pa studies related to Pañcakrama.)
+(Studying Indo-Tibetan Tantric Buddhism at the University of Tokyo. A Buddhist Monk of Koyasan Shingon Sect. Specialising in rJe tsong kha pa studies related to Pañcakrama based on systematic theological approach.)
 
 
 ## Vision
@@ -18,7 +18,7 @@ To achieve the vision above, I am dedicated to the following mission.
 
 (4) Knowledge Preservation: To build up a database of the texts such as Tripitaka and the audio recordings of the lectures of the lamas in Tibetan Buddhism, in order to fully carry out the above studies. Furthermore, to create in virtual reality the worldviews that are visualised in the bskyed rim by using both verbal and non-verbal ways. To use augmented reality to preserve the spiritual culture of various regions, which is being lost.
 
-(5) Spirituality: To widely integrate the above studies with the knowledge of other religions, literature, prayer, art, history, society, life and death and other spiritual activities of humankind, to analyse spirituality and its narratives that precede thought and religion, and to seek ways of solidarity, dialogue and cooperation among human beings. To explore the relationship between spiritual states such as happiness, suffering and care, which human beings can satisfy through mutual relationships, and individual states of mind such as compassion and altruism, and to propose a state of human society that is considered to be happy for each of them.
+(5) Spirituality: To widely integrate the above studies with the knowledge of other religions, literature, prayer, art, history, society, life and death and other spiritual activities of humankind, to analyse spirituality and its narratives that precede thought and religion, and to seek ways of solidarity, dialogue and cooperation among human beings. To explore the relationship between spiritual states such as happiness, suffering and care, which human beings can satisfy through mutual relationships, and individual states of mind such as compassion and altruism, and to propose a state of human society that is considered to be happy for each of them. In addition, to establish kindergartens to guarantee spiritual education.
 
 (6) Spiritual Security: To consider how death, suffering and the living body and mind based on the tradition of rnal 'byor bla na med pa'i rgyud may or may not be described by the findings of modern science, such as medicine, neurology and brain science. To devise a method of spiritual security using the rnal 'byor bla na med pa'i rgyud method of practice based on these considerations.
 
@@ -68,12 +68,12 @@ Apr. 2024  "Wakai", Komaba.
 
 
 ## Keywords
-Pañcakrama, rDzogs rim, Guhyasamājatantra, Tantric Buddhism, Vimokṣa, Altruism, Compassion, Citta, Happiness, Well-being, Suffering, Death, Kea (Caring), Bodhisattva, Spirituality, Prayer, Kūkai, Shingon sect, Tsongkhapa, dGe lugs pa, Madhyamaka philosophy, Logic, Machine learning, bsDus grwa, Lineage, Practice, Education through dialogue, Monastic education, Emic, Narrative analysis, Religious Politics, Religious Diplomacy, Religion and Global Politics, Peace building, Database, Natural Language Processing, Transmission (rgyud).
+Pañcakrama, rDzogs rim, Guhyasamājatantra, Tantric Buddhism, Vimokṣa, Altruism, Compassion, Citta, Happiness, Well-being, Suffering, Death, Kea (Caring), Bodhisattva, Spirituality, Prayer, Early childhood education, Kūkai, Shingon sect, Tsongkhapa, dGe lugs pa, Madhyamaka philosophy, Logic, Machine learning, bsDus grwa, Lineage, Practice, Education through dialogue, Monastic education, Emic, Narrative analysis, Systematic theological approach in Buddhist Studies, Religious Politics, Religious Diplomacy, Religion and Global Politics, Peace building, Database, Natural Language Processing, Transmission (rgyud).
 
 
 
 ## Research Areas
-Religious Studies, Philosophy, Buddhist Studies, International Relations Theory, Tibetan Buddhism, Tibetology, Indology, Tantric Buddhism, Neurology, Logic, Informatics, Thanatology, Ethics, Japanese Philosophy.
+Religious Studies, Philosophy, Buddhist Studies, Systematic Theology, International Relations Theory, Tibetan Buddhism, Tibetology, Indology, Tantric Buddhism, Neurology, Logic, Informatics, Thanatology, Ethics, Japanese Philosophy.
 
 
 ## Updates (Published Papers etc.)
@@ -87,7 +87,7 @@ https://linktr.ee/inuimasataka
 —
 # 慈しみの世界に
 # 乾　将崇（いぬい・まさたか）
-（東京大学でインド・チベット密教を勉強中。高野山真言宗。五次第に関連するジェ・ツォンカパ研究を専門。）
+（東京大学でインド・チベット密教を勉強中。高野山真言宗。五次第に関連するジェ・ツォンカパ研究を組織神学的アプローチに依拠して行う。）
 
 
 ## 構想
@@ -105,7 +105,7 @@ https://linktr.ee/inuimasataka
 
 (4) 知の保全：失われつつある各地の精神文化について、拡張現実を利用しながら、その継承を図ること。特に、以上の研究を十全に行うために、インド-チベット仏教に関わる三蔵に代表される典籍の、そして高僧の講義の音声の、データベースを構築すること。さらに、生起次第（bskyed rim）において観想される世界観について、言語を用いる方法と用いない方法の双方で、仮想現実上に表現すること。
 
-(5) 霊性：以上の研究と他の宗教や文学、祈り、芸術、歴史、社会、死生など人類の精神的な営みについての学知を広く融合し、思想や宗教に先立つ霊性（spirituality）とその語りについて分析し、宗教や思想を超えた人類間連帯と対話、協力のあり方を模索すること、また、幸せ、苦しみ、ケアといった人間が相互の関係によって満たすことのできるような精神状態と慈悲心や利他心といった個々の心のあり方との連関を探り、それぞれにとって幸福と思われる人類の社会の状態について提言すること。
+(5) 霊性：以上の研究と他の宗教や文学、祈り、芸術、歴史、社会、死生など人類の精神的な営みについての学知を広く融合し、思想や宗教に先立つ霊性（spirituality）とその語りについて分析し、宗教や思想を超えた人類間連帯と対話、協力のあり方を模索すること、また、幸せ、苦しみ、ケアといった人間が相互の関係によって満たすことのできるような精神状態と慈悲心や利他心といった個々の心のあり方との連関を探り、それぞれにとって幸福と思われる人類の社会の状態について提言すること。また、幼稚園を設立し霊的な教育を保障すること。
 
 (6) こころの安全保障：以上の研究によって、無上瑜伽タントラの伝承に基づくヒトの死、苦しみ、生きている身心の捉え方がどのように医学や神経学、脳科学といった現代科学の知見により記述されうるか、あるいはされえないかについて考察すること、またその考察に基づいて、無上瑜伽タントラの修道方法を利用した精神の安全保障の方法を考案すること。
 
@@ -155,11 +155,11 @@ https://linktr.ee/inuimasataka
 
 
 ## キーワード
-五次第、究竟次第、秘密集会タントラ、後期密教、解脱、利他、慈悲、心、幸せ、ウェルビーイング、苦しみ、ケア、死、菩薩、霊性、祈り、空海、真言宗、ツォンカパ、ゲルク派、中観哲学、論理学、機械学習、ドゥラ、血脈、実践、対話的な学び、僧院教育、イーミック、語りの分析、宗教政策、宗教外交、宗教と国際政治、平和構築、データベース、自然言語処理、知の継承。
+五次第、究竟次第、秘密集会タントラ、後期密教、解脱、利他、慈悲、心、幸せ、ウェルビーイング、苦しみ、ケア、死、菩薩、霊性、祈り、幼児教育、空海、真言宗、ツォンカパ、ゲルク派、中観哲学、論理学、機械学習、ドゥラ、血脈、実践、対話的な学び、僧院教育、イーミック、語りの分析、仏教学における組織神学的アプローチ、宗教政策、宗教外交、宗教と国際政治、平和構築、データベース、自然言語処理、知の継承。
 
 
 ## 研究分野
-宗教学、哲学、仏教学、国際関係論、チベット仏教、チベット学、インド学、密教学、神経学、論理学、情報学、死生学、倫理学、日本思想。
+宗教学、哲学、仏教学、組織神学、国際関係論、チベット仏教、チベット学、インド学、密教学、神経学、論理学、情報学、死生学、倫理学、日本思想。
 
 
 ## 近況（出版された論文等）
