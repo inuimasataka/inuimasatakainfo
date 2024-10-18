@@ -58,7 +58,7 @@ Apr. 2024: Transferred to the Department of Indian Philosophy and Buddhist Studi
 
 Aug. 2024: Studied in Gyudmed Monastery in India, completed bsDus chung subject.
 
-Oct. 2024: Short stay and study in Tibetan Childrens' Village Upper Dharamsala with 12 Yr Tibetan students.
+Oct. 2024: Short stay and study in Tibetan Children's Village Upper Dharamsala with 12 Yr Tibetan students.
 
 ## Honors and Awards
 Oct. 2020: 31st Oi Ocha New Haiku Award (Kasaku).
