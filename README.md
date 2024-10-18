@@ -29,7 +29,9 @@ Peacebuilding: To study the diverse and inclusive environments in the Indo-Pacif
 Buddhist studies encompass a multilingual and pan-Asian scope. I believe this field allows us to:
 
 Build a foundation for dialogue in Asia.
+
 Renew our understanding of Japan, significantly influenced by Buddhism.
+
 Contribute to achieving peace and stability in the human spirit. 
 
 My research is driven by a commitment to these long-term contributions to humanity.
@@ -54,13 +56,19 @@ Mar. 2024: Completed Shido Kegyo (Prayoga) in Koyasan.
 
 Apr. 2024: Transferred to the Department of Indian Philosophy and Buddhist Studies at the University of Tokyo.
 
-Oct. 2024: Studied in Gyudmed Monastery in India, completed bsDus chung subject.
+Aug. 2024: Studied in Gyudmed Monastery in India, completed bsDus chung subject.
+
+Oct. 2024: Short stay and study in Tibetan Childrens' Village Upper Dharamsala with 12 Yr Tibetan students.
 
 ## Honors and Awards
 Oct. 2020: 31st Oi Ocha New Haiku Award (Kasaku).
+
 Mar. 2022: Koyasan Shingon Sect Chief Abbot Award for academic excellence in high school.
+
 Dec. 2023: 33rd Icho Namiki Literature Award for the literary work “Wakai.”
+
 Jun. 2024: Scholarship for the Tobitate Study Abroad Initiative 2024 by MEXT for study at Gyudmed Tantric University in Karnataka, India.
+
 
 ## Published Works
 Apr. 2024: "Wakai," Komaba.
