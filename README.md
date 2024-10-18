@@ -39,13 +39,21 @@ I focus on Indo-Tibetan Tantric Buddhism, specifically studying the Pañcakrama 
 
 ## Background
 Sept. 2003: Born in Nishinomiya, Hyogo Prefecture, Japan.
+
 Dec. 2016: Met the 14th Dalai Lama in Osaka.
+
 Aug. 2018: Studied at Brisbane Grammar School, Australia.
+
 Mar. 2022: Graduated with honors from Seifu High School, Osaka.
+
 Apr. 2022: Enrolled at the University of Tokyo, Faculty of Liberal Arts, Human Sciences III.
+
 Aug. 2023: Ordained at Hojuin Temple, Koyasan, Wakayama.
+
 Mar. 2024: Completed Shido Kegyo (Prayoga) in Koyasan.
+
 Apr. 2024: Transferred to the Department of Indian Philosophy and Buddhist Studies at the University of Tokyo.
+
 Oct. 2024: Studied in Gyudmed Monastery in India, completed bsDus chung subject.
 
 ## Honors and Awards
