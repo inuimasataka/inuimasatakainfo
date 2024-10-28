@@ -85,3 +85,5 @@ Forthcoming publication on rGyud smad nyams bzhes.
 ## More Information and Contacts
 
 https://linktr.ee/inuimasataka
+<img width="611" alt="Screenshot 2024-10-28 at 19 15 43" src="https://github.com/user-attachments/assets/578b6d98-694c-467f-96f6-7497ea7b4013">
+
