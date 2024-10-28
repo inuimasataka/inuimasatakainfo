@@ -1,7 +1,7 @@
 # For a Compassionate World
 
 ## Masataka Inui
-(Interested in epistemological frameworks in general. Studying Indo-Tibetan Tantric Buddhism at the University of Tokyo. Buddhist monk of the Koyasan Shingon Sect, specializing in rJe Tsongkhapa's studies related to Pañcakrama through a systematic theological approach.)
+(Interested in epistemological frameworks in general. Studying Indo-Tibetan Tantric Buddhism at the University of Tokyo. Specializing in rJe Tsongkhapa's studies related to Pañcakrama through a systematic theological approach. ལྟ་བ་རྟེན་འབྱུང། སྤྱོད་པ་འཚེ་བ་མེད་པ།)
 
 ## Vision
 To create transformative perspectives on life and death for humanity through the study of Buddhism, especially Tantric teachings on suffering and death. This vision aims to foster a more resilient human spirit and a global environment that supports the well-being of all living beings.
