@@ -42,15 +42,17 @@ I focus on Indo-Tibetan Tantric Buddhism, specifically studying the Pañcakrama 
 ## Background
 Sept. 2003: Born in Nishinomiya, Hyogo Prefecture, Japan.
 
-Dec. 2016: Met the 14th Dalai Lama in Osaka.
+Dec. 2016: Met the 14th Dalai Lama in Osaka, Japan.
 
 Aug. 2018: Studied at Brisbane Grammar School, Australia.
 
-Mar. 2022: Graduated with honors from Seifu High School, Osaka.
+Mar. 2019: Received Guhyasamaja Empowerment and its tantric teaching, Seifu, Osaka, Japan. 
+
+Mar. 2022: Graduated with honors from Seifu High School, Osaka, Japan.
 
 Apr. 2022: Enrolled at the University of Tokyo, Faculty of Liberal Arts, Human Sciences III.
 
-Mar. 2024: Completed Shido Kegyo (Prayoga) in Koyasan.
+Mar. 2024: Completed Shido Kegyo (Prayoga) in Koyasan, Japan.
 
 Apr. 2024: Transferred to the Department of Indian Philosophy and Buddhist Studies at the University of Tokyo.
 
@@ -58,7 +60,7 @@ Aug. 2024: Studied in Gyudmed Monastery in India, completed bsDus chung subject.
 
 Oct. 2024: Short stay and study in Tibetan Children's Village Upper Dharamsala with 12 Yr Tibetan students.
 
-Nov. 2024: Received Vajra Acarya Degree (Kongo Ajari) from Kongobuji Temple, Koyasan.
+Nov. 2024: Received Vajra Acarya Degree (Kongo Ajari) from Kongobuji Temple, Koyasan, Japan.
 
 ## Honors and Awards
 Oct. 2020: 31st Oi Ocha New Haiku Award (Kasaku).
