@@ -50,8 +50,6 @@ Mar. 2022: Graduated with honors from Seifu High School, Osaka.
 
 Apr. 2022: Enrolled at the University of Tokyo, Faculty of Liberal Arts, Human Sciences III.
 
-Aug. 2023: Ordained at Hojuin Temple, Koyasan, Wakayama.
-
 Mar. 2024: Completed Shido Kegyo (Prayoga) in Koyasan.
 
 Apr. 2024: Transferred to the Department of Indian Philosophy and Buddhist Studies at the University of Tokyo.
@@ -59,6 +57,8 @@ Apr. 2024: Transferred to the Department of Indian Philosophy and Buddhist Studi
 Aug. 2024: Studied in Gyudmed Monastery in India, completed bsDus chung subject.
 
 Oct. 2024: Short stay and study in Tibetan Children's Village Upper Dharamsala with 12 Yr Tibetan students.
+
+Nov. 2024: Received Vajra Acarya Degree (Kongo Ajari) from Kongobuji Temple, Koyasan.
 
 ## Honors and Awards
 Oct. 2020: 31st Oi Ocha New Haiku Award (Kasaku).
